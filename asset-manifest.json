@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://devsagul.github.io/CRMHack/static/css/main.272d9b16.chunk.css",
-    "main.js": "https://devsagul.github.io/CRMHack/static/js/main.e7d08a80.chunk.js",
-    "main.js.map": "https://devsagul.github.io/CRMHack/static/js/main.e7d08a80.chunk.js.map",
+    "main.css": "https://devsagul.github.io/CRMHack/static/css/main.82190ef7.chunk.css",
+    "main.js": "https://devsagul.github.io/CRMHack/static/js/main.b8446d03.chunk.js",
+    "main.js.map": "https://devsagul.github.io/CRMHack/static/js/main.b8446d03.chunk.js.map",
     "runtime-main.js": "https://devsagul.github.io/CRMHack/static/js/runtime-main.466d39e4.js",
     "runtime-main.js.map": "https://devsagul.github.io/CRMHack/static/js/runtime-main.466d39e4.js.map",
     "static/js/2.102c7566.chunk.js": "https://devsagul.github.io/CRMHack/static/js/2.102c7566.chunk.js",
     "static/js/2.102c7566.chunk.js.map": "https://devsagul.github.io/CRMHack/static/js/2.102c7566.chunk.js.map",
     "index.html": "https://devsagul.github.io/CRMHack/index.html",
-    "static/css/main.272d9b16.chunk.css.map": "https://devsagul.github.io/CRMHack/static/css/main.272d9b16.chunk.css.map",
+    "static/css/main.82190ef7.chunk.css.map": "https://devsagul.github.io/CRMHack/static/css/main.82190ef7.chunk.css.map",
     "static/js/2.102c7566.chunk.js.LICENSE.txt": "https://devsagul.github.io/CRMHack/static/js/2.102c7566.chunk.js.LICENSE.txt",
     "static/media/background.4fd85e44.jpg": "https://devsagul.github.io/CRMHack/static/media/background.4fd85e44.jpg",
     "static/media/testroom.e988a775.jpg": "https://devsagul.github.io/CRMHack/static/media/testroom.e988a775.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.466d39e4.js",
     "static/js/2.102c7566.chunk.js",
-    "static/css/main.272d9b16.chunk.css",
-    "static/js/main.e7d08a80.chunk.js"
+    "static/css/main.82190ef7.chunk.css",
+    "static/js/main.b8446d03.chunk.js"
   ]
 }
